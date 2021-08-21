@@ -14,5 +14,6 @@ public class gitTest {
         System.out.println("the gitee push1 test");
         System.out.println("the gitee push2 test");
         System.out.println("the github push1 test");
+        System.out.println("the github push2 test");
     }
 }
